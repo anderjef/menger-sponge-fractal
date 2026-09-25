@@ -1,6 +1,6 @@
 # Menger Sponge Fractal
 
-Menger Sponge Fractal provides an animation of a rotating Menger sponge fractal with higher resolution generated on demand (click).  
+Menger Sponge Fractal provides an animation of a rotating Menger sponge fractal with higher resolution generated on demand.  
 Start date: 2019-09-05  
 
 ## Demo
@@ -13,8 +13,7 @@ Start date: 2019-09-05
 
 ## Installation
 
-- Open Processing (IDE).
-- Open any of the `*.pde` files with Processing (IDE).
+Open any of the `*.pde` files with Processing (IDE).
 
 ## Usage
 
